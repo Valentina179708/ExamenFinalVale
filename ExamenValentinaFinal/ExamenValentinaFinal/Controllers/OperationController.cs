@@ -17,7 +17,7 @@ namespace ExamenValentinaFinal.Controllers
             }
             if (id == 0)
             {
-                return "Realizado por Valentina Gemio Martinez";
+                return "Realizado por Valentina Gemio";
             }
             return "Ingreso el numero:" +id.ToString();
 
